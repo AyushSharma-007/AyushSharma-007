@@ -67,7 +67,7 @@ Currently exploring real-world datasets and implementing advanced analytics to e
 ### 🔐 [LogIn System](https://github.com/AyushSharma-007/LOGINSYSTEM)
 - 🔑 Built a secure **authentication system** using Firebase & Excel
 
-### 🌱 [Crop Recommendation System](https://github.com/AyushSharma-007)
+### 🌱 [Crop Recommendation System](https://github.com/AyushSharma-007/Crop-Recommendation-system)
 - 🌾 Designed an **ML-based system** for **optimal crop selection**
 - 🔬 Applied **EDA, feature engineering & data preprocessing**
 
