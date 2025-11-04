@@ -21,7 +21,7 @@ Currently exploring real-world datasets and implementing advanced analytics to e
 ---
 
 ## 🎓 Education
-🎓 **B.Tech, Barkatullah University** (8.1 CGPA)  
+🎓 **B.Tech, Barkatullah University** (8.5 CGPA)  
 🏫 **Higher Secondary Education, Gwalior Glory High School** (90.2%)  
 📚 **Senior Secondary Education, Gwalior Glory High School** (88.2%)  
 
